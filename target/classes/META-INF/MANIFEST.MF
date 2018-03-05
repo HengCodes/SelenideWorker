@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.8.0_161
+Class-Path: lib/selenide-4.2.1.jar lib/httpcore-4.4.5.jar lib/selenium
+ -java-3.0.1.jar lib/selenium-chrome-driver-3.0.1.jar lib/selenium-rem
+ ote-driver-3.0.1.jar lib/selenium-api-3.0.1.jar lib/jna-platform-4.1.
+ 0.jar lib/jna-4.1.0.jar lib/selenium-edge-driver-3.0.1.jar lib/seleni
+ um-firefox-driver-3.0.1.jar lib/selenium-ie-driver-3.0.1.jar lib/sele
+ nium-opera-driver-3.0.1.jar lib/selenium-support-3.0.1.jar lib/junit-
+ 4.12.jar lib/hamcrest-core-1.3.jar lib/htmlunit-2.23.jar lib/xalan-2.
+ 7.2.jar lib/serializer-2.7.2.jar lib/htmlunit-core-js-2.23.jar lib/ne
+ ko-htmlunit-2.23.jar lib/xercesImpl-2.11.0.jar lib/cssparser-0.9.20.j
+ ar lib/sac-1.3.jar lib/commons-io-2.5.jar lib/websocket-client-9.2.15
+ .v20160210.jar lib/jetty-util-9.2.15.v20160210.jar lib/jetty-io-9.2.1
+ 5.v20160210.jar lib/websocket-common-9.2.15.v20160210.jar lib/websock
+ et-api-9.2.15.v20160210.jar lib/gson-2.8.0.jar lib/guava-20.0.jar lib
+ /browsermob-core-2.1.2.jar lib/littleproxy-1.1.0-beta-bmp-13.jar lib/
+ jackson-core-2.7.5.jar lib/jackson-databind-2.7.5.jar lib/jackson-ann
+ otations-2.7.5.jar lib/uadetector-resources-2014.10.jar lib/uadetecto
+ r-core-0.9.22.jar lib/quality-check-1.3.jar lib/jsr305-2.0.3.jar lib/
+ jsr250-api-1.0.jar lib/dnsjava-2.1.7.jar lib/jcl-over-slf4j-1.7.21.ja
+ r lib/jzlib-1.1.3.jar lib/netty-all-4.0.39.Final.jar lib/bcprov-jdk15
+ on-1.54.jar lib/bcpkix-jdk15on-1.54.jar lib/mitm-2.1.2.jar lib/phanto
+ mjsdriver-1.3.0.jar lib/commons-codec-1.10.jar lib/testng-6.10.jar li
+ b/jcommander-1.48.jar lib/extentreports-3.0.3.jar lib/freemarker-2.3.
+ 23.jar lib/mongodb-driver-3.3.0.jar lib/bson-3.3.0.jar lib/mongodb-dr
+ iver-core-3.3.0.jar lib/httpclient-4.5.2.jar lib/httpmime-4.5.2.jar l
+ ib/jsoup-1.9.2.jar lib/dom4j-1.6.jar lib/xml-apis-1.0.b2.jar lib/jaxb
+ -api-2.1.jar lib/stax-api-1.0-2.jar lib/activation-1.1.jar lib/saxon-
+ 8.7.jar lib/log4j-1.2.17.jar lib/commons-csv-1.4.jar lib/commons-lang
+ 3-3.5.jar lib/json-20170516.jar lib/json-path-2.2.0.jar lib/json-smar
+ t-2.2.1.jar lib/accessors-smart-1.1.jar lib/asm-5.0.3.jar lib/slf4j-a
+ pi-1.7.16.jar lib/json-lib-2.4-jdk15.jar lib/commons-beanutils-1.8.0.
+ jar lib/commons-collections-3.2.1.jar lib/commons-lang-2.5.jar lib/co
+ mmons-logging-1.1.1.jar lib/ezmorph-1.0.6.jar lib/sikulixapi-1.1.0.ja
+ r lib/commons-cli-1.2.jar lib/commons-exec-1.3.jar lib/jintellitype-1
+ .3.7.jar lib/jxgrabkey-1.0.jar lib/swing-layout-1.0.3.jar lib/bridj-0
+ .6.2.jar lib/sikulixlibswin-1.1.0.jar
+Main-Class: nh.ui.automation.tools.Selenide.App
+Created-By: Maven Integration for Eclipse
+

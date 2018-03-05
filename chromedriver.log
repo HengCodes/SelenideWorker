@@ -1,0 +1,26 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 E:\Dev\WorkSpace\Selenide\driver\chromedriver.exe
+[0.419][FINE]:      Initializing session with capabilities {
+   "acceptSslCerts": true,
+   "chromeOptions": {
+      "args": [ "--no-sandbox" ],
+      "extensions": [  ]
+   },
+   "pageLoadStrategy": "normal"
+}
+
+[0.420][INFO]:      Launching chrome: "C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors --no-sandbox about:blank
+[45.425][SEVERE]:   Failed to initialize connection
+[55.517][WARNING]:  Chrome still running, terminating...
+[55.517][INFO]:     Chrome shutdown
+[55.587][FINE]:     Initializing session with capabilities {
+   "acceptSslCerts": true,
+   "chromeOptions": {
+      "args": [ "--no-sandbox" ],
+      "extensions": [  ]
+   },
+   "pageLoadStrategy": "normal"
+}
+
+[55.587][INFO]:     Launching chrome: "C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors --no-sandbox about:blank
+[100.593][SEVERE]:  Failed to initialize connection
+[100.593][INFO]:    Chrome shutdown

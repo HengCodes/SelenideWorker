@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [nh.ui.antomation.test.cases]">
+  <test name="DemoTest(failed)">
+    <classes>
+      <class name="nh.ui.antomation.test.cases.DemoTest">
+        <methods>
+          <include name="indexPage"/>
+          <include name="testChromeDriver"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- nh.ui.antomation.test.cases.DemoTest -->
+    </classes>
+  </test> <!-- DemoTest(failed) -->
+</suite> <!-- Failed suite [nh.ui.antomation.test.cases] -->
